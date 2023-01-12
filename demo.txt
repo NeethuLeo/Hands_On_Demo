@@ -6,7 +6,11 @@ thirdline added
 
 fourth line added from github
 
+newline added from Branch-A LocalRepository
+
+newline added from Branch-A Remote Repo-GitHub
+
 Fifth line from Branch-C RemoteRepoGitHub(may be conflicting)
 
-
 sixth line added from Branch-C RemoteRepoGitHub
+
